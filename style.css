@@ -17,7 +17,7 @@ body {
     justify-content: space-around;
     width: 45%;
     height: 400px;
-    background: #4C1D95
+    background: #4C1D95;
 }
 
 .sub-container {
@@ -40,9 +40,19 @@ h3 {
 }
 
 button {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #C4B5FD;
+    background: #A78BFA;
+    border-radius: 4px;
 }
+
+.btn {
+    color: #881337;
+    font-size: 20px;
+    font-weight: 700;
+}
+
 .btn-container {
     display: flex;
     justify-content: space-around;
