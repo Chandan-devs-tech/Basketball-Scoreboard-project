@@ -38,3 +38,13 @@ h3 {
     flex-direction: column;
     justify-content: center;
 }
+
+button {
+    width: 20px;
+    height: 20px;
+}
+.btn-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 26px;
+}
