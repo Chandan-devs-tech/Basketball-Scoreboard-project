@@ -1,8 +1,22 @@
 body {
     margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    background: #A78BFA;
 }
+
 
 .container {
     display: flex;
     justify-content: space-around;
+    /* border: 1px solid black; */
+    width: 45%;
+    height: 400px;
+    background: #4C1D95
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
 }
