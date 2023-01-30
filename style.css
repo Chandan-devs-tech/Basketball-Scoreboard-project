@@ -51,6 +51,11 @@ button {
     color: #881337;
     font-size: 20px;
     font-weight: 700;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: lightgray;
 }
 
 .btn-container {
@@ -58,3 +63,4 @@ button {
     justify-content: space-around;
     padding-top: 26px;
 }
+
