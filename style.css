@@ -31,6 +31,17 @@ body {
     justify-content: center;
 }
 
+#sub-container-two {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    color: #fff;
+    font-size: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 h3 {
     color: white;
     font-size: 40px;
