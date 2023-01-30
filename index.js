@@ -35,3 +35,13 @@ function scoreBoard3(){
     let result2 = num2+=3;
     scoreTwo.textContent = result2;
 }
+
+function reset1(){
+    let output=0;
+    score.textContent=output;
+}
+
+function reset2(){
+    let output=0;
+    scoreTwo.textContent=output;
+}

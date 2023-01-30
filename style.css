@@ -79,3 +79,27 @@ button {
     justify-content: space-around;
     padding-top: 26px;
 }
+
+#reset-btn {
+    width: 80px;
+    height: 30px;
+    border: 2px solid #C4B5FD;
+    background: #A78BFA;
+    border-radius: 4px; 
+    cursor: pointer;      
+    color: #4C1D95;
+    font-weight: 700;
+    font-size: 15px;
+    padding-top: 3px;
+    border-style: none;
+}
+
+#reset-btn:hover {
+    background: hsl(240deg 6% 87%);
+}
+
+.reset {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
